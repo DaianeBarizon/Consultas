@@ -1,0 +1,5 @@
+/home/john/Rider/DemoLinq/DemoLinq/obj/Debug/DemoLinq.csprojAssemblyReference.cache
+/home/john/Rider/DemoLinq/DemoLinq/bin/Debug/DemoLinq.exe
+/home/john/Rider/DemoLinq/DemoLinq/bin/Debug/DemoLinq.pdb
+/home/john/Rider/DemoLinq/DemoLinq/obj/Debug/DemoLinq.exe
+/home/john/Rider/DemoLinq/DemoLinq/obj/Debug/DemoLinq.pdb
